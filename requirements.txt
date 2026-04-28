@@ -1,4 +1,6 @@
-streamlit
-requests
-plotly
-pandas
+streamlit==1.56.0
+pandas==3.0.2
+plotly==6.7.0
+numpy==2.4.4
+pyarrow==24.0.0
+altair==6.1.0
